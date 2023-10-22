@@ -1,0 +1,9 @@
+* cl-turbojpeg
+
+An up-to-date bindings library for the JPEG Turbo C library
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-turbojpeg.git |
+| commit  | 08a54f0                                           |
+| systems | cl-turbojpeg                                      |
+|---------+---------------------------------------------------|
