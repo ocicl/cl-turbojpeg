@@ -4,6 +4,6 @@ An up-to-date bindings library for the JPEG Turbo C library
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-turbojpeg.git |
-| commit  | dc98044                                           |
+| commit  | e3ff2c4                                           |
 | systems | cl-turbojpeg                                      |
 |---------+---------------------------------------------------|
