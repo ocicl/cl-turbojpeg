@@ -7,4 +7,4 @@ An up-to-date bindings library for the JPEG Turbo C library
 | commit  | 6bcb934                                            |
 | systems | cl-turbojpeg                                       |
 |---------+----------------------------------------------------|
- 
+  
